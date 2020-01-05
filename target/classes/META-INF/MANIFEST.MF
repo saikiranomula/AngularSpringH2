@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: saiki
+Build-Jdk: 13.0.1
+Implementation-Title: login module
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.alumon.login
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/login
+Created-By: Maven Integration for Eclipse
+
